@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there and welcome to the Out Of Org Education's offitial Github page!
 
 <!--
 
