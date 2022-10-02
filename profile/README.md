@@ -1,5 +1,8 @@
 ## Hi there and welcome to the Out Of Org Education's offitial Github page!
 
+![Out Of Org Edu - Logo](https://user-images.githubusercontent.com/103906421/193468519-a80937fd-f1d2-49cf-82c5-96f76597a0a8.png)
+
+# Socials
 Website: https://outoforgedu.tk
 
 <!--
