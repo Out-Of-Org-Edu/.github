@@ -2,6 +2,9 @@
 
 ![Out Of Org Edu - Logo](https://user-images.githubusercontent.com/103906421/193468519-a80937fd-f1d2-49cf-82c5-96f76597a0a8.png)
 
+# Our Mission
+Our mission here at Out Of Org Education is to provide everyone with free/affordable education. Signup today at https://outoforgedu.tk
+
 # Socials
 Website: https://outoforgedu.tk
 
